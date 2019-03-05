@@ -1,0 +1,21 @@
+{
+    "name": "groovy/languagetranslator",
+    "description": "Yii2 Language Translator",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Ashok Sachdev",
+            "email": "agsachdev@groovyweb.firm.in"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\src\\languagetranslator\\": ""
+        }
+    }
+}
